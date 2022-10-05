@@ -6,7 +6,7 @@
     </td>
       <td align="center" style="padding=0;width=50%;">
       <a href="https://github.com/swatarianess">
-      <img src="https://github-readme-stats-swatarianess.vercel.app/api/top-langs/?username=swatarianess&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=5ae87c&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=5ae87c&hide_title=true&enable_animations=true&layout=compact&hide=html" />
+      <img src="https://github-readme-stats-swatarianess.vercel.app/api/top-langs/?username=swatarianess&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=5ae87c&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=5ae87c&hide_title=true&enable_animations=true&hide=html"/>
     </td>
   </tr>
 </p>
