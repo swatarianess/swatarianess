@@ -21,7 +21,7 @@
   </tr>
   <tr>
     
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swatarianess&rank=-C&theme=onedark" alt="swatarianess" /></a> </p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swatarianess&rank=-C&theme=onedark&no-bg=true" alt="swatarianess" /></a> </p>
   </tr>
 </p>
 
